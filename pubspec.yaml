@@ -1,5 +1,5 @@
 name: flutter_tencent_captcha
-description: 适用于 Flutter 的腾讯云验证码插件
+description: Tencent Captcha Plugin for Flutter
 version: 0.1.2
 homepage: https://github.com/leanflutter/flutter_tencent_captcha
 
